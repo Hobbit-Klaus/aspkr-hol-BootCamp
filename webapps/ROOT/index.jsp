@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1><% out.println("ASP.NET KR!!!!"); %></h1>
+    <h1><% out.println("한글은 꺠지나????!!!!"); %></h1>
 </body>
 </html>
